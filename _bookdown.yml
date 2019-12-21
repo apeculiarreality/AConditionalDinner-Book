@@ -1,0 +1,6 @@
+book_filename: "AConditionalDinner"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "A Conditional Dinner · "
+output_dir: "docs"
